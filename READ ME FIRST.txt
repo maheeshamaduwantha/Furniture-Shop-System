@@ -1,0 +1,15 @@
+SUPRIME FURNITURE SHOP SYSTEM
+
+LOGIN AS ADMIN
+
+Username: admin
+Password: admin123
+
+
+LOGIN AS CUSTOMER
+
+Username: customer
+Password: customer123
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED TO THIS PROGRAM, FEEL FREE TO CONTACT US *****  
